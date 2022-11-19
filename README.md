@@ -47,7 +47,7 @@ You need google chrome installed locally but supported: Frirefox, Edge, Electron
 
             npx cypress open
 
-## Generate HTML report with allure
+## Generate report with allure
  
             npx cypress run --record --key 07a9bf24-921d-4e3e-ab90-e160dcc797cc
             
