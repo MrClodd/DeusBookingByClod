@@ -43,7 +43,7 @@ You need google chrome installed locally but supported: Frirefox, Edge, Electron
 4. Debug
 
 
-## Execute the tests
+## Execute the tests with Cypress
 
             npx cypress open
 
