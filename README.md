@@ -54,3 +54,6 @@ You need google chrome installed locally but supported: Frirefox, Edge, Electron
             
 ![Report](cypress/screenshots/Report.png)            
 
+## Video
+
+![image](https://user-images.githubusercontent.com/118028215/202852462-2628155d-1f5e-404f-8dc4-c617e631f420.png)
