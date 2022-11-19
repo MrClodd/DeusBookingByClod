@@ -50,5 +50,5 @@ You need google chrome installed locally but supported: Frirefox, Edge, Electron
 ## Generate HTML report with allure
  
             npx cypress run --record --key 07a9bf24-921d-4e3e-ab90-e160dcc797cc
-            ![Report](2022-11-19 13_41_51-DeusBookingByClod_cypress at main · MrClodd_DeusBookingByClod.png)
+            ![Report](Report.png)
 
