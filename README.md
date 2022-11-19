@@ -43,10 +43,12 @@ You need google chrome installed locally but supported: Frirefox, Edge, Electron
 4. Debug
 
 
-. Execute the tests
+## Execute the tests
 
             npx cypress open
 
-. generate HTML report with allure
-
+## Generate HTML report with allure
+ 
+            npx cypress run --record --key 07a9bf24-921d-4e3e-ab90-e160dcc797cc
             
+
